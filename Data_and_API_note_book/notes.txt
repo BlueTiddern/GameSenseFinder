@@ -1,0 +1,44 @@
+API: Application programming interface (API): Acts like a bridge between two pieces of software so that different systems can interact with each other.
+
+REST and SOAP APIs
+
+SOAP
+
+- simple object access protocol
+- uses a service interface
+- Is a protocol
+- Only uses XML 
+- Is like an envelope
+- Req more server and bandwidth
+- Supports WS-security
+- Has a web service Description language file
+- SOAP API exposes the operation
+
+REST
+- Representational state transfer
+- Uses URIs
+- Is an archi style
+- uses json, XML
+- Like a post card
+- Rest API exposes the data
+
+PostMan: API platform for building and using APIs. It simplifies each step of API lifecycle and streamlines colaboration.
+
+IGDB API call:
+
+client ID: 1ppjb55ykv0m8z83e7kqu47qlyasp3
+
+Client Secret: z449nh6cfwkvs4obk57rxydwavvk85
+
+POST call: https://id.twitch.tv/oauth2/token/client_id=1ppjb55ykv0m8z83e7kqu47qlyasp3&client_secret=z449nh6cfwkvs4obk57rxydwavvk85&grant_type=client_credentials
+
+
+client_id=1ppjb55ykv0m8z83e7kqu47qlyasp3
+
+client_secret=z449nh6cfwkvs4obk57rxydwavvk85
+
+grant_type=client_credentials
+
+Cursor AI: check this out
+
+Vercel V0
